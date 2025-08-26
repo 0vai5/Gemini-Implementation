@@ -1,0 +1,700 @@
+4 Dividend policy
+Simple Dill CF CFE
+=
+Motintant / Dir. CAP = FCFE/
+② Multintuy
+3
+6/13
+Dividend decisions determine the amount of and the way that a company's profits are distributed to its
+shareholders.
+
+4.1 Is dividend policy irrelevant?
+MeM THEORY (FP)
+Shareholders who hold the shares of a company are entitled to a portion of the income that the company
+generates and of the assets that it owns. The dividend policy of a company refers to the decision taken by
+the management of the company with regard to how much of a company's earnings will be distributed to
+shareholders and how much will be retained within the firm.
+In reaching this decision, the management of the company should try, as in all financial management
+decisions, to maximise the wealth of the company's shareholders. However, there is little agreement as to
+the impact of dividend policy on shareholder wealth, and the interaction between dividend payments,
+financing decisions and the value of a company has been the subject of theoretical analysis and empirical
+investigation.
+At one end of the debate, Modigliani and Miller have maintained that the dividend policy of a corporation is
+irrelevant because the value of a company is not affected by its financial policy.
+Suppose a company pays dividends without changing investment and financing policies. The money that
+the company will pay as dividends has to come from somewhere else. If the company maintains the
+amount of debt (does not borrow to pay the dividend), the company needs to issue new shares to finance
+the dividend. The new shareholders will pay only what the shares are worth, and the old shareholders will
+receive the money paid by the new shareholders as dividends. After the dividend is paid, the value per
+share should be equal to the old price minus the dividend paid by the new shareholders. The value of the
+firm remains the same, but money changed hands from new to old shareholders. Dividend policies are
+therefore irrelevant.
+
+4.2 Ways of paying dividend
+Companies have many ways of returning money to the shareholders. The main ones are:
+(a) Cash dividends. This the most common way of paying dividends by corporations. These dividends
+are paid in cash, usually quarterly. Companies can declare both regular and 'extra' dividends.
+Regular dividends usually remain unchanged in the future, but 'extraordinary' or 'special' dividends
+are unlikely to be repeated.
+(b)
+
+Dividends in the form of shares. These are paid instead of cash dividends by allocating shares of
+equivalent value to existing shareholders. Shareholders receive new shares in the corporation as a
+form of a dividend. Like a 'share split', the number of shares increases, but no cash changes
+hands.
+(c)
+Share repurchases. This is an alternative way to distribute cash to shareholders. The firm buys
+back its own shares. This can be done on the open market, by tender offer or by buying stock
+from major shareholders.
+A major difference between dividends and share repurchases is their tax treatment. Cash dividends are taxed
+as income but share repurchases are subject to capital gains tax only if a capital gain has been realised.
+Both cash and stock dividends reduce the value per share.
+4.3 Dividend capacity (Single) ①
+6/13
+The dividend capacity of a corporation determines how much of a company's income can be paid out as
+dividend. The dividend capacity of the company is also known as the free cash flow to equity (FCFE).
+The estimation of dividend capacity of a firm is dealt with in Chapter 4. Here we simply give the definition
+of the FCFE.
+FCFE = Net income (EBIT – net interest – tax paid)
+add
+Depreciation
+less
+Total net investment
+(change in capital investment + change in working capital)
+add
+Net debt issued (new borrowings less any repayments)
+add
+Net equity issued (new issues less any equity repurchases)
+The FCFE represents the cash available to the company which could be paid out to shareholders as
+dividends.
+The FCFE is usually not the same as actual dividends in a given year because normally the management of
+a company deliberately smoothes dividend payments over time. There are also rules which restrict the
+payment of distributable profits only as dividends.
+4.4 Theories of dividend policy
+The Modigliani and Miller argument that dividend policy is irrelevant should have led to a random pattern
+of dividend payments. In practice, dividend payments tend to be smoothed over time. In this section we
+review some of the reasons that have been put forward as explanation for the payment of dividends.
+4.4.1 The residual theory of dividend payments
+According to this theory, firms will only pay dividends if all the profitable investment opportunities have
+been funded. This theory assumes that internal funds are the cheapest source of financing, and the
+company will resort to external financing only if the available internal funds, current and retained earnings
+have been exhausted.
+
+4.4.2 Target payout ratio
+According to the target payout theory, companies pay out as dividends a fixed proportion of their
+earnings. Firms have long-run target dividend payout ratios.
+(a) Mature companies with stable earnings usually have a higher dividend payout ratio than growth
+companies.
+(b)
+
+Managers focus more on dividend changes than absolute amounts.
+(c)
+Transitory changes in earnings usually do not affect dividend payouts.
+(d)
+Only long-term shifts in earnings can be followed by changes in dividends.
+(e) Managers are reluctant to change dividend payout ratios due to the potential signals that such
+changes may send to the markets (see below).
+4.4.3 Dividends as signals
+Dividends can be used to convey good (or bad) information. A firm that increases its dividend payout ratio
+may be signalling that it expects future cash flows to increase, as this ratio tends to remain steady over time.
+Bad firms can also increase dividends to try to convince the markets that they too are expecting increased
+future cash flows. However, this increase may be unsustainable if the promised increases do not occur and
+the inevitable reduction in dividend payout ratio will mean heavy penalties from the markets.
+4.4.4 Agency theory
+Dividend payments can be an instrument to monitor managers. When firms pay dividends they often need
+to subsequently go to the capital markets to fund the projects. When firms go to the financial markets they
+will be scrutinised by different market participants. For instance, investors will require an analysis of the
+creditworthiness of the firm. Companies often announce dividend payments in conjunction with trying to
+raise new capital.
+4.4.5 Dividends and taxes
+A final theory explaining dividend payments is based on the presence of different corporate and personal
+taxes on one hand and of different income and capital gains taxes on the other. Modigliani and Miller
+assume that there are no personal taxes. Taxes on dividends (ordinary income) are higher than taxes on
+capital gains. Thus, under the presence of personal taxes, companies should not pay dividends because
+investors require a higher return to companies that pay dividends. If payments are to be made to
+shareholders, the company should opt for other alternatives, such as share repurchases. This is true if
+taxes on dividend income are higher than taxes on capital gains.
+However, different investors have different tax rates. High tax-rate individuals will prefer the firm to invest
+more, whereas low tax individuals may prefer that the firm does not invest and instead pays dividends.
+Investors try to select companies with dividend policies that approximate their requirements.
+Dividend capacity and dividend policy were also covered in Chapter 1, Section 4 and are considered
+further in Chapter 4.
+June 2013 Question 4 asked about the dividend policies of a company and its potential investments.
+
+2
+10 Dividend capacity Multinational 12/10, 6/13
+The dividend capacity of a multinational company depends on its after-tax profits, investment plans and
+foreign dividends.
+There was a six-mark section in June 2013 Question 4 asking students to calculate the level of increase in
+dividends from overseas investments that would raise the investing company's dividend capacity by 10%.
+We have introduced the concept of the dividend capacity of an organisation above. Here we extend the
+treatment to the case of a multinational company and highlight the role of special factors, such as
+remittances from subsidiaries and the timing of payments.
+The potential dividend that can be paid, ie the dividend capacity of the firm, can be estimated as follows.
+
+FORMAT
+Operating cash flows from domestic operations
+Depreciation
+Dividends from foreign affiliates and subsidiaries
+plus
+plus
+plus
+Net equity issuance (ie new issues net of repurchases)
+Net debt issuance (ie new borrowing net of repayment)
+Interest payments on debt, less any interest income
+Taxes
+plus
+less
+less
+less
+Net investment in non-current assets (net of asset sales)
+less
+Net investment in working capital, inclusive of cash and marketable securities.
+Dividend capacity, or FCFE, represents dividends that could be paid to shareholders. This is usually not the
+same as actual dividends in a given vear because normally the management of a company deliberately
+smoothes dividend payments across time. In the rest of this section we look in greater detail at three of
+the factors: total net investment, share repurchases and foreign dividends.
+You should know how the various parts of the FCFE equation affect dividend capacity.
+10.1 Effect of investment plans
+Total net investment is the single most important factor in determining dividend payouts to the
+shareholders. According to pecking order hypothesis, funding investments with internal funds is the first
+choice of management, followed by borrowing or share issues. Consequently, fast-growing companies
+would be associated with low dividend distributions.
+10.2 Effect of share repurchases
+A company that opts to repurchase its shares transfers funds from the company to the shareholders. The
+repurchase is financed from the firm's distributable reserves. The effect of a share repurchase is to
+increase the earnings per share, as the number of issued shares is reduced. The evidence suggests that
+markets react favourably to announcements of share repurchases. The rationale for the positive reaction is
+that when there are no investment opportunities then it is preferable for the excess cash to be returned to
+shareholders rather than to be retained within the company.
+Share repurchases as a method of distribution represented a larger amount than dividends in the US. The
+reason for this is the more favourable tax treatment of share repurchases, which is subject to capital gains
+tax, whereas dividend payments are subject to income tax which is higher.
+10.3 Dividends from overseas operations
+Corporations paying dividends to common shareholders could, for example, fund these payments by
+triggering repatriations. Repatriations help parent companies meet their financing needs as larger
+dividends to external shareholders are associated with larger dividend repatriations inside the firm, and
+highly levered parent companies with profitable domestic investment opportunities draw more heavily on
+the resources of their foreign affiliates. In fact, dividend repatriations represent sizeable financial flows for
+the US companies. For example in 1999 US corporations listed in Compustat paid $198 billion in
+dividends to common shareholders and foreign affiliates of US multinational firms repatriated $97 billion
+to the US as dividends.
+The importance of repatriated dividends is not limited to quoted companies, which it may be argued face
+pressure from the markets to distribute dividends to shareholders. Even private companies rely heavily on
+their overseas subsidiaries to finance dividend distributions. The evidence suggests that this is happening
+even when dividend repatriation is not tax efficient.
+
+11 Dividend repatriation policies (Donat Ignore)
+The amount of dividends subsidiaries pay to the parent company depend on the parent company's
+dividend policies, financing needs, taxation and managerial control.
+The choice of whether to repatriate earnings from a foreign subsidiary is one of the most important
+decisions in multinational financial management. As mentioned in the previous section, dividend
+repatriations represent significant financial flows for parent companies and contribute to dividend
+payments. The factors that affect dividend repatriation policies can be grouped as follows.
+Financing factors
+(a)
+Tax factors
+(b)
+(c)
+Managerial factors
+(d) Timing factors
+11.1 Financing factors
+The factors that shape repatriation dividend policy within the multinational firm are the payment of
+dividends to external shareholders, the level of investment planned by the parent company, after-tax
+profits and financing policies.
+Repatriation policies may reflect financing concerns of parents who draw on subsidiary cash flows to
+finance domestic expenses. Two examples of such domestic expenses are dividend payments to external
+shareholders and capital expenditures in the home countries.
+11.2 Investment financing
+Dividend repatriations from foreign affiliates may offer an attractive source of finance for domestic
+investment expenditures, despite possible associated tax costs, especially when alternative forms of
+finance are costly. This is true for parent companies with profitable domestic investment opportunities that
+already maintain large amounts of external debt and do not wish to increase the level of borrowing even
+further. Another case is when companies need to expand fast into areas and profitability is not sufficient to
+finance the expansion.
+One of the strong implications of the US tax treatment of foreign income is that US multinational
+corporations should not simultaneously remit dividends from low-tax foreign locations and transfer equity
+funds into the same foreign locations. Doing so generates a home-country tax liability that could be easily
+avoided simply by reducing both dividends and equity transfers.
+11.3 Dividend policy
+Dividend repatriations from foreign affiliates may also offer an attractive source of finance for
+payments of dividends to common shareholders, especially when the parent company may prefer a
+smooth dividend payment pattern and domestic profitability is in decline. The dividend payments of a
+subsidiary may also be affected by the dividend policy of the parent company. For example, if the parent
+company operates a constant payout ratio policy, then the subsidiary will have to adopt a constant payout
+ratio policy too.
+Empirical evidence shows that dividend payments to parent companies tend to be regular and
+multinational firms behave as though they select target payouts for their foreign affiliates, gradually
+adjusting payouts over time in response to changes in earnings.
+11.4 Tax regime and dividend payments
+Tax considerations are thought to be the primary reason for the dividend policies inside the multinational
+firm. For example, the parent company may reduce its overall tax liability by, for example, receiving larger
+amounts of dividends from subsidiaries in countries where undistributed earnings are taxed.
+
+For subsidiaries of UK companies, all foreign profits, whether repatriated or not, are liable to UK
+corporation tax, with a credit for the tax that has already been paid to the host country. Similarly, the US
+Government does not distinguish between income earned abroad and income earned at home and gives
+credit to multinational corporations (MNCs) headquartered in the US for the amount of tax paid to foreign
+governments.
+Example
+Assume that the corporate tax rate in the home country is 40% and in the overseas country where a
+subsidiary is located it is 30%. Assume that both the parent company and the subsidiary have pre-tax
+profits of $1,000.
+Taxes to foreign government = 1,000 × 30% = 300
+MNC's profit after foreign tax = 1,000 – 300 = 700
+US taxes = 1,000 × 40% = 400
+Foreign tax credit = 300
+Net tax to IRS = 400 – 300 = 100
+Total taxes = 300 + 100 = 400
+11.5 Managerial control
+Another reason that may determine repatriation policies is the inability to fully monitor foreign managers.
+Regularised dividend payments restrict the financial discretion of foreign managers, thereby reducing
+associated agency problems. Conflicts of interest are most apt to arise when ownership is divided, as local
+owners may influence managers to undertake transactions at other than market prices. Control
+considerations inside the firm may explain the tax-penalised behaviour especially when affiliates are
+partially owned.
+Finally, the desire to control corporate managers around the world carries implications for dividend
+policies. A multinational firm's central management can use financial flows within the firm to evaluate the
+financial prospects and needs of far-flung foreign affiliates and to limit the discretion of foreign managers.
+As this observation suggests, it may be sensible to mandate dividend payments to police and monitor
+foreign managers, limit their ability to misallocate funds, and extract returns on investments – much as
+public shareholders use dividends to monitor and control their their firms.
+11.6 Timing of dividend payments
+So far we have concentrated on the size of repatriated dividends. The timing of payments may be equally
+important. For example, a subsidiary may adjust its dividend payments to a parent company in order to
+benefit from expected movements in exchange rates. A company would like to collect early (lead)
+payments from currencies vulnerable to depreciation and to collect late (lag) from currencies which are
+expected to appreciate.
+Also, given that tax liabilities are triggered by repatriation, these tax liabilities can be deferred by
+reinvesting earnings abroad rather than remitting dividends to parent companies. The incentive to defer
+repatriation is much stronger for affiliates in low-tax countries, whose dividends trigger significant parent
+tax obligations, than they are for affiliates in high-tax countries – particularly since taxpayers receive net
+credits for repatriations from affiliates in countries with tax rates that exceed the parent country tax rate.
+
+4 The treasury management function
+Treasury management in a modern enterprise covers a number of areas, including liquidity
+management, funding management, currency management and corporate finance.
+One way in which you can demonstrate competence in the performance objective 'manage cash using
+active cash management and treasury systems' is to manage cash on a centralised basis to both maximise
+returns and minimise charges. This section introduces the treasury management function and how it can
+be used to pool cash from various sources which can be placed on deposit.
+4.1 Treasury management
+Large companies rely heavily for both long-term and short-term funds on the financial and currency
+markets. To manage cash (funds) and currency efficiently, many large companies have set up a separate
+treasury department.
+The Association of Corporate Treasurers' definition of treasury management is 'the corporate handling of
+all financial matters, the generation of external and internal funds for business, the management of
+currencies and cash flows, and the complex strategies, policies and procedures of corporate finance'.
+A treasury department, even in a large company, is likely to be quite small, with perhaps a staff of three to
+six qualified accountants, bankers or corporate treasurers working under a treasurer, who is responsible
+to the finance director. In some cases, where the company or organisation handles very large amounts of
+cash or foreign currency dealings, and often has large cash surpluses, the treasury department might be
+larger.
+
+4.2 The role of the treasurer
+The diagrams below are based on the Association of Corporate Treasurers' list of experience it requires
+from its student members before they are eligible for full membership of the Association. Required
+experience gives a good indication of the roles of treasury departments.
+(a) Corporate financial objectives
+Policies
+CORPORATE FINANCIAL OBJECTIVES
+Aims and
+strategies
+Systems
+(b) Liquidity management: making sure the company has the liquid funds it needs, and invests any
+surplus funds, even for very short terms.
+LIQUIDITY MANAGEMENT
+Working capital
+management
+Banking
+relationships
+Money transmission
+management
+Money management
+and investment
+(c) Funding management
+Length of time/
+funds available
+Interest rate
+Where funds
+obtainable
+FUNDING MANAGEMENT
+Funding policies
+Funding procedures
+Sources
+Security
+Types
+Funding management is concerned with all forms of borrowing, and alternative sources of funds,
+such as leasing and factoring.
+
+(d) Currency management
+CURRENCY MANAGEMENT
+Exposure policies
+and procedures
+Exchange dealing
+(futures and options)
+Exchange
+regulations
+Currency dealings can save or cost a company considerable amounts of money, and the success or
+shortcomings of the corporate treasurer can have a significant impact on the statement of profit or
+loss of a company which is heavily involved in foreign trade.
+(e) Corporate finance
+Raising share
+capital
+CORPORATE FINANCE
+Dividend policies
+Obtaining a stock
+exchange listing
+Project finance and
+joint ventures
+Mergers, acquisitions
+and business sales
+The treasury department has a role in all levels of decision making within the company. It is
+involved with strategic decisions, such as dividend policy and the raising of capital, tactical
+decisions, such as risk management, and operational decisions, such as the investment of surplus
+funds.
+4.3 Treasury policy
+All treasury departments should have a formal statement of treasury policy and detailed guidance on
+treasury procedures. The aims of a treasury policy are to enable managers to establish direction, specify
+parameters and exercise control, and also provide a clear framework and guidelines for decisions.
+The guidance needs to cover the roles and responsibilities of the treasury function, the risks requiring
+management, authorisation and dealing limits.
+Guidance on risks should cover:
+•
+Identification and assessment methodology
+•
+Criteria including tolerable and unacceptable levels of risk
+•
+Management guidelines, covering risk elimination, risk control, risk retention and risk transfer
+•
+Reporting guidelines
+The areas that might be covered include:
+•
+Counterparty exposure, including limits for each counterparty and monitoring of exposures in
+relation to the limits
+•
+Currency and interest rate risk, such as hedging methods, authorised instruments and exposure
+limits
+•
+Funding risk, including limits and targets for different sources of funding
+•
+Liquidity management, including permitted banks, netting and inter-group procedures
+
+•
+Investment management, covering sources of funds, authorised counterparties and instruments,
+and inter-company funding
+•
+Bank relationships specifying criteria for the choice of bank
+The guidance must also include guidance on measurement of treasury performance. Measurement must
+cover both the management of risk and the financial contribution the department makes.
+4.4 Advantages of a separate treasury department
+Advantages of having a treasury function which is separate from the financial control function are as
+follows.
+(a) Centralised liquidity management avoids mixing cash surpluses and overdrafts in different localised
+bank accounts.
+(b) Bulk cash flows allow lower bank charges to be negotiated.
+(c)
+Larger volumes of cash can be invested, giving better short-term investment opportunities.
+(d)
+Borrowing can be agreed in bulk, probably at lower interest rates than for smaller borrowings.
+(e)
+Currency risk management should be improved, through matching of cash flows in different
+subsidiaries. There should be less need to use expensive hedging instruments, such as option
+contracts.
+(f)
+A specialist department can employ staff with a greater level of expertise than would be possible
+in a local, more broadly based, finance department.
+(g)
+The company will be able to benefit from the use of specialised cash management software.
+(h)
+Access to treasury expertise should improve the quality of strategic planning and decision
+making.
+4.5 Centralised or decentralised cash management?
+Centralising the treasury management function allows businesses to employ experts, deal in bulk cash
+flows and therefore take advantage of lower bank charges and avoid a mix of surpluses and deficits.
+However, decentralised cash management can be more responsive to local needs.
+A large company may have a number of subsidiaries and divisions. In the case of a multinational, these
+will be located in different countries. It will be necessary to decide whether the treasury function should be
+centralised.
+With centralised cash management, the central treasury department effectively acts as the bank to the
+group. The central treasury has the job of ensuring that individual operating units have all the funds they
+need at the right time.
+4.5.1 Advantages of a specialist centralised treasury department
+(a)
+Centralised liquidity management avoids having a mix of cash surpluses and overdrafts in
+different local bank accounts and facilitates bulk cash flows, so that lower bank charges can be
+negotiated.
+(b) Larger volumes of cash are available to invest, giving better short-term investment opportunities
+(for example, money market deposits, high interest accounts and CDs).
+(c) Any borrowing can be arranged in bulk, at lower interest rates than for smaller borrowings, and
+perhaps on the eurocurrency or eurobond markets.
+(d) Foreign currency risk management is likely to be improved in a group of companies. A central
+treasury department can match foreign currency income earned by one subsidiary with expenditure
+in the same currency by another subsidiary. In this way, the risk of losses on adverse exchange
+
+(e)
+(f)
+rate changes can be avoided without the expense of forward exchange contracts or other 'hedging'
+(risk-reducing) methods.
+A specialist treasury department will employ experts with knowledge of dealing in futures,
+eurocurrency markets, taxation, transfer prices and so on. Localised departments would not have
+such expertise.
+The centralised pool of funds required for precautionary purposes will be smaller than the sum of
+separate precautionary balances which would need to be held under decentralised treasury
+arrangements.
+(g) Through having a separate profit centre, attention will be focused on the contribution to group
+profit performance that can be achieved by good cash, funding, investment and foreign currency
+management.
+(h)
+
+Centralisation provides a means of exercising better control through use of standardised
+procedures and risk monitoring. Standardised practices and performance measures can also
+create productivity benefits.
+4.5.2 Possible advantages of decentralised cash management
+(a)
+Sources of finance can be diversified and can be matched with local assets.
+(b)
+Greater autonomy can be given to subsidiaries and divisions because of the closer relationships
+they will have with the decentralised cash management function.
+(c) The decentralised treasury function may be able to be more responsive to the needs of individual
+operating units.
+However, since cash balances will not be aggregated at group level, there will be more limited
+opportunities to invest such balances on a short-term basis.
+4.5.3 Centralised cash management in the multinational firm
+If cash management within a multinational firm is centralised, each subsidiary holds only the minimum
+cash balance required for transaction purposes. All excess funds will be remitted to the central treasury
+department.
+Funds held in the central pool of funds can be returned quickly to the local subsidiary by telegraphic
+transfer or by means of worldwide bank credit facilities. The firm's bank can instruct its branch office in
+the country in which the subsidiary is located to advance funds to the subsidiary.
+Question
+Treasury centralisation
+Touten is a US registered multinational company with subsidiaries in 14 countries in Europe, Asia and
+Africa. The subsidiaries have traditionally been allowed a large amount of autonomy, but Touten is now
+proposing to centralise most of the group treasury management operations.
+Required
+Acting as a consultant to Touten, prepare a memo suitable for distribution from the group finance director
+to the senior management of each of the subsidiaries explaining:
+(a)
+The potential benefits of treasury centralisation
+(b)
+How the company proposes to minimise any potential problems for the subsidiaries that might
+arise as a result of treasury centralisation
+
+Answer
+MEMORANDUM
+To: Directors of all foreign subsidiaries
+From: Group Finance Director
+Date: 1 July 20X0
+Centralisation of treasury management operations
+At its last meeting, the board of directors of Touten made the decision to centralise group treasury
+management operations. A further memo giving detailed plans will be circulated shortly, but my objective
+in this memo is to outline the potential benefits of treasury centralisation and how any potential problems
+arising at subsidiaries can be minimised. Most of you will be familiar with the basic arguments, which we
+have been discussing informally for some time.
+What it means
+Centralisation of treasury management means that most decisions on borrowing, investment of cash
+surpluses, currency management and financial risk management will be taken by an enhanced central
+treasury team, based at head office, instead of by subsidiaries directly. In addition, we propose to set most
+transfer prices for inter-company goods and services centrally.
+The potential benefits
+The main benefits are:
+(a)
+(b)
+Cost savings resulting from reduction of unnecessary banking charges
+Reduction of the group's total taxation charge
+(c)
+Enhanced control over financial risk
+Reduction in banking charges will result from:
+(a) Netting off inter-company debts before settlement. At the moment we are spending too much on
+foreign exchange commission by settling inter-company debts in a wide range of currencies
+through the banking system.
+(b) Knowledge of total group currency exposure from transactions. Amounts receivable in one
+subsidiary can hedge payables in another, eliminating unnecessary hedging by subsidiaries.
+(c) Knowledge of the group's total cash resources and borrowing requirement. This will reduce the
+incidence of one company lending cash while a fellow subsidiary borrows at a higher interest rate
+and will also eliminate unnecessary interest rate hedging. It will also facilitate higher deposit rates
+and lower borrowing rates.
+Reduction in the group's tax charge will be made possible by a comprehensive centrally set transfer
+pricing policy.
+Enhanced control over financial risks will be possible because we will be able to develop a central team of
+specialists who will have a clear-cut strategy on hedging and risk management. Many of you have
+requested help in this area.
+This team will be able to ensure that decisions are taken in line with group strategy and will also be able to
+provide you with enhanced financial information to assist you with your own decision making.
+Potential problems for subsidiaries and their solution
+Our group culture is one of decentralisation and enablement of management at individual subsidiary
+level. There is no intention to change this culture. Rather, it is hoped that releasing you from specialist
+treasury decisions will enable you to devote more time to developing your own business units.
+However, the system can only work properly if information exchange between head office and
+subsidiaries is swift and efficient. Enhanced computer systems are to be provided at all centres to assist
+you with daily reports. It is also important that you keep head office informed of all local conditions that
+
+12 Transfer pricing
+Transfer prices are set by the MNC not only to recover the cost of services and goods provided but also to
+achieve objectives such as tax liability minimisation and to offset host country policies.
+MNCs supply their affiliates with capital, technology and managerial skills, for which the parent firm
+receives a stream of dividend and interest payments, royalties and licence fees. At the same time,
+significant intra-firm transfers of goods and services occur. For example, the subsidiary may provide the
+
+parent company with raw materials, whereas the parent company may provide the subsidiary with final
+goods for distribution to consumers in the host country. For intra-firm trade both the parent company and
+the subsidiary need to charge prices. These prices for goods, technology or services between wholly or
+partly owned affiliates of the multinational are called transfer prices.
+A transfer price may be defined as the price at which goods or services are transferred from one process
+or department to another or from one member of a group to another.
+The extent to which costs and profit are covered by the transfer price is a matter of company policy. A
+transfer price may be based on any of the following.
+•
+Standard cost
+•
+Marginal cost: at marginal cost or with a gross profit margin added
+•
+Opportunity cost
+•
+Full cost: at full cost, or at a full cost plus price
+•
+Market price
+•
+Market price less a discount
+•
+Negotiated price, which could be based on any of the other bases
+A transfer price based on cost might be at marginal cost or full cost, with no profit or contribution
+margin, but in a profit centre system it is more likely to be a price based on marginal cost or full cost plus
+a margin for contribution or profit. This is to allow profit centres to make a profit on work they do for other
+profit centres, and so earn a reward for their effort and use of resources on the work.
+Transfers based on market price might be any of the following.
+(a) The actual market price at which the transferred goods or services could be sold on an external
+market
+(b)
+The actual external market price, minus an amount that reflects the savings in costs (for example
+selling costs and bad debts) when goods are transferred internally
+(c)
+(d)
+A price sufficient to give an appropriate share of profit to each party
+The market price of similar goods which are sold on an external market, although the transferred goods
+are not exactly the same and do not themselves have an extermal market
+12.1 The level of transfer prices
+The size of the transfer price will affect the costs of one profit centre and the revenues of another. Since
+profit centre managers are held accountable for their costs, revenues and profits, they are likely to dispute
+the size of transfer prices with each other, or disagree about whether one profit centre should do work for
+another or not. Transfer prices affect the behaviour and decisions of profit centre managers.
+If managers of individual profit centres are tempted to make decisions that are harmful to other divisions
+and are not congruent with the goals of the organisation as a whole, the problem is likely to emerge in
+disputes about the transfer price.
+Disagreements about output levels tend to focus on the transfer price. There is presumably a
+profit-maximising level of output and sales for the organisation as a whole. However, unless each profit
+centre also maximises its own profit at the corresponding level of output, there will be interdivisional
+disagreements about output levels and the profit-maximising output will not be achieved.
+12.2 The advantages of market value transfer prices
+Giving profit centre managers the freedom to negotiate prices with other profit centres as though they
+were independent companies will tend to result in market-based transfer prices.
+(a)
+In most cases where the transfer price is at market price, internal transfers should be expected,
+because the buying division is likely to benefit from a better quality of service, greater flexibility
+and dependability of supply.
+(b)
+Both divisions may benefit from lower costs of administration, selling and transport.
+
+A market price as the transfer price would therefore result in decisions which would be in the best
+interests of the company or group as a whole.
+12.3 The disadvantages of market value transfer prices
+Market value as a transfer price does have certain disadvantages.
+(a) The market price may be temporary, induced by adverse economic conditions or dumping, or it
+might depend on the volume of output supplied to the external market by the profit centre.
+(b)
+
+A transfer price at market value might, under some circumstances, act as a disincentive to use up
+any spare capacity in the divisions. A price based on incremental cost, in contrast, might provide
+an incentive to use up the spare resources in order to provide a marginal contribution to profit.
+(c) Many products do not have an equivalent market price, so that the price of a similar product
+might be chosen. In such circumstances, the option to sell or buy on the open market does not
+exist.
+(d)
+
+There might be an imperfect external market for the transferred item so that, if the transferring
+division tried to sell more externally, it would have to reduce its selling price.
+(e)
+Internal transfers are often cheaper than external sales, with savings in selling costs, bad debt
+risks and possibly transport costs. It would therefore seem reasonable for the buying division to
+expect a discount on the external market price, and to negotiate for such a discount.
+
+12.5 Motivations for transfer pricing
+In deciding on their transfer pricing policies, MNCs take into account many internal and external factors or
+motivations for transfer pricing. In terms of internal motivations these include the following.
+Performance evaluation
+When different affiliates within a multinational are treated as standalone profit centres, transfer prices are
+needed internally by the multinational to determine profitability of the individual divisions. Transfer prices
+which deviate too much from the actual prices will make it difficult to properly monitor the performance of
+an affiliated unit.
+Management incentives
+If transfer prices used for internal measures of performance by individual affiliates deviate from the true
+economic prices, and managers are evaluated and rewarded on the basis of the distorted profitability, then
+it may result in corporate managers behaving in an irresponsible way.
+Cost allocation
+When units within the multinational are run as cost centres, subsidiaries are charged a share of the costs
+of providing the group service function so that the service provider covers its costs plus a small mark-up.
+Lower or higher transfer prices may result in a subsidiary bearing less or more of the overheads.
+
+Financing considerations
+Transfer pricing may be used in order to boost the profitability of a subsidiary, with the parent company
+undercharging the subsidiary. Such a boost in the profitability and its credit rating may be needed by the
+subsidiary in order to succeed in obtaining funds from the host country.
+Transfer pricing can also be used to disguise the profitability of the subsidiary in order to justify high
+prices for its products in the host country and to be able to resist demands for higher wages.
+Several external motivations can affect the multinational's choice of transfer prices. Because
+multinationals operate in two or more jurisdictions, transfer prices must be assigned for intra-firm trade
+that crosses national borders.
+Taxes
+MNCs use transfer pricing to channel profits out of high tax rate countries into lower ones. A parent
+company may sell goods at lower than normal prices to its subsidiaries in lower tax rate countries and buy
+from them at higher than normal prices. The resultant loss in the parent's high-tax country adds
+significantly to the profits of the subsidiaries. An MNC reports most of its profits in a low-tax country,
+even though the actual profits are earned in a high-tax country.
+Tariffs
+Border taxes, such as tariffs and export taxes, are often levied on crossborder trade. Where the tax is
+levied on an ad valorem basis, the higher the transfer price, the larger the tax paid per unit. Whether an
+MNC will follow high transfer price strategy or not may depend on its impact on the tax burden. When
+border taxes are levied on a per-unit basis (ie specific taxes), the transfer price is irrelevant for tax
+purposes.
+Rule of origin rule
+Another external factor is the need to meet the rule of origin that applies to crossborder flows within a free
+trade area. Since border taxes are eliminated within the area, rules of origin must be used to determine
+eligibility for duty-free status. Over- or underinvoicing inputs is one way to avoid customs duties levied on
+products that do not meet the rule of origin test.
+Exchange control and quotas
+Transfer pricing can be used to avoid currency controls in the host country. For example, a constraint in
+profit repatriation could be avoided by the parent company charging higher prices for raw materials, or
+higher fees for services provided to the subsidiary. The parent company will have higher profits and a
+higher tax liability and the subsidiary will have lower profitability and a lower tax liability.
+When the host country restricts the amount of foreign exchange that can be used to import goods, then a
+lower transfer price allows a greater quantity of goods to be imported.
+13 Regulation of transfer pricing
+MNCs have to adhere to pricing guidelines to prevent exploitation of the host country.
+13.1 The problem of transfer price manipulation
+As we have discussed in the previous section, transfer pricing is a normal, legitimate and, in fact, required
+activity. Firms set prices on intra-firm transactions for a variety of perfectly legal and rational internal
+reasons and, even where pricing is not required for internal reasons, governments may require it in order
+to determine how much tax revenues and customs duties are owed by the MNC. Transfer price
+manipulation, on the other hand, exists when MNCs use transfer prices to evade or avoid payment of
+taxes and tariffs, or other controls that the Government of the host country has put in place.
+Governments worry about transfer price manipulation because they are concerned with the loss of
+revenues through tax avoidance or evasion and they dislike the loss of control. Overall MNC profits after
+taxes may be raised by either under- or overinvoicing the transfer price; such manipulation for tax
+
+purposes, however, comes at the expense of distorting other goals of the firm; in particular, evaluating
+management performance.
+Case Study
+'In November 2012, Starbucks's head of finance was forced to portray his company as a perennial
+commercial flop, in order to account for its peculiar failure to record a taxable profit in the UK for 14 of the
+last 15 years.
+Starbucks said that it sourced UK coffee from its wholesale trading subsidiary in Switzerland. That may
+be sensible commercially – it's cheaper to have one team responsible for sourcing all of Starbucks' coffee
+… but it is hard to escape the conclusion that Switzerland would not be a major centre for coffee trading in
+the first place if it did not charge a lowly 12% tax rate on the trading profits.'
+Starbucks also charges its UK operations for use of its brand name, technology and engineering support.
+'Transfer pricing is not a new problem… and is perfectly legitimate so long as they are done at an arm's
+length fair market price.'
+Starbucks points to the fact that franchise operators in the UK willingly pay these charges and that this is
+'the same fee it charges its own loss making business in the UK'.
+(Source: 'Corporate tax avoidance: how do companies do it?', BBC website 4 Dec 2012)
